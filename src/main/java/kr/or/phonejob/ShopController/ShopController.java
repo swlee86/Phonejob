@@ -25,4 +25,9 @@ public class ShopController {
 		return url;
 	}
 
+	public String phoneDetail(){
+
+		return null;
+	}
+
 }
